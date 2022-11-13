@@ -5,7 +5,7 @@ Own a pair of M-1 headphones from teenage engineering? did the audio cable get t
 
 Who cares, here is a way to fix these pretty headphones, as long as you still have the metallic pin to hold it in place.
 
-<img src="IMAGES/M1-Hinge.png" width="200">
+<img src="IMAGES/M1-Hinge.png" width="400">
 
 The hinge was printed using an **Anycubic Photon Mono 4k**, using the default 50 [um] parameters from lychee slicer for generic resin. 
 
